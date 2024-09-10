@@ -30,6 +30,6 @@
 
 
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/c0dem)
+[![codewars](https://www.codewars.com/users/c0dem/badges/small)](https://www.codewars.com/users/c0dem)
 
 
