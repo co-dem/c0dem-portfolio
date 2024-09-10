@@ -6,7 +6,7 @@
 
 <h3>skills:</h3>
 <ul>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <p></p><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"> - год</p>
 </ul>
 
 
