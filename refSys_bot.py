@@ -50,3 +50,4 @@ async def start(message: types.Message):
         await bot.send_message(message.from_id, 'нажмите команду /link чтобы получить свою реферальную ссылку')
 
 executor.start_polling(dp)
+#| coded by c0dem 
